@@ -1,0 +1,13 @@
+D:\ITI\Unit Testing\Project\CarFactoryLibrary\bin\Debug\net7.0\CarFactoryLibrary.deps.json
+D:\ITI\Unit Testing\Project\CarFactoryLibrary\bin\Debug\net7.0\CarFactoryLibrary.dll
+D:\ITI\Unit Testing\Project\CarFactoryLibrary\bin\Debug\net7.0\CarFactoryLibrary.pdb
+D:\ITI\Unit Testing\Project\CarFactoryLibrary\obj\Debug\net7.0\CarFactoryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Unit Testing\Project\CarFactoryLibrary\obj\Debug\net7.0\CarFactoryLibrary.AssemblyInfoInputs.cache
+D:\ITI\Unit Testing\Project\CarFactoryLibrary\obj\Debug\net7.0\CarFactoryLibrary.AssemblyInfo.cs
+D:\ITI\Unit Testing\Project\CarFactoryLibrary\obj\Debug\net7.0\CarFactoryLibrary.csproj.CoreCompileInputs.cache
+D:\ITI\Unit Testing\Project\CarFactoryLibrary\obj\Debug\net7.0\CarFactoryLibrary.sourcelink.json
+D:\ITI\Unit Testing\Project\CarFactoryLibrary\obj\Debug\net7.0\CarFactoryLibrary.dll
+D:\ITI\Unit Testing\Project\CarFactoryLibrary\obj\Debug\net7.0\refint\CarFactoryLibrary.dll
+D:\ITI\Unit Testing\Project\CarFactoryLibrary\obj\Debug\net7.0\CarFactoryLibrary.pdb
+D:\ITI\Unit Testing\Project\CarFactoryLibrary\obj\Debug\net7.0\ref\CarFactoryLibrary.dll
+D:\ITI\Unit Testing\Project\CarFactoryLibrary\obj\Debug\net7.0\CarFactoryLibrary.csproj.AssemblyReference.cache
